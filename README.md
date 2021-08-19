@@ -2,4 +2,4 @@
 
 Tindog is the new app helping dog lovers find like-minded friends for themselves.
 
-<a href=""> 
+<a href="https://chandrakant2000.github.io/Tindog-Website/"> See it in action </a> 
